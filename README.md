@@ -10,10 +10,14 @@ Uses Python to fetch data (URLs not included) and Octave to analyse. The CSV dat
 the bib numbers all set to zero, and does not include the source URLs, for privacy reasons.
 
 
-Octave Files
+Python Files
 ------------
 
 *fetcher.py* fetches the wave start data and results data and combines them into one CSV.
+
+
+Octave Files
+------------
 
 *gender_plot.m* will generate a histogram of finish times split by genders.
 
